@@ -2,7 +2,7 @@
 //////////////////////////SR
 require_once "./../bpqueue.php";
 require_once "./../config/dbconfig_debug.php";
-
+//hot fix here!!!!!!!!!!!!!!!!!!!!!!!!!!!1//
 $bpqueue=new bpQueue();
 echo '<h3>Создаем новый объект класса bpQueue и выводим информацию о нем используя метод showInfo класса bpQueue:</h3>';
 echo '$bpqueue->showInfo()<br>';

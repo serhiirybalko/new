@@ -1,5 +1,5 @@
 <?php
-
+//
 require_once("./../common_functions_debug.php");
 require_once("./../config/dbconfig_debug.php");
 require_once("./../config/sync_config_rus.php");
